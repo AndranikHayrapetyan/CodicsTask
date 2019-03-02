@@ -8,7 +8,6 @@ namespace CodicsTask
 {
     class QueenClass : FiguresClass
     {
-
         public int row;
         public int column;
 
