@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp47
+namespace CodicsTask
 {
     class RookClass : FiguresClass
     {
